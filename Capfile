@@ -1,6 +1,6 @@
-test  wq	
-		a	b	
-dw			C	A
+test  wq Q   2nd Q    Q   2tab
+ Q    Q   a Q   b Q   
+dw Q    Q    Q   C Q   A
 as
   testtaba
     test2
