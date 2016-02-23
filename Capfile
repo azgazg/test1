@@ -6,7 +6,7 @@ as
     test2
       dupa
 
-defd 
+defd tabulator
 tabulatortabulatorded
 
         d
